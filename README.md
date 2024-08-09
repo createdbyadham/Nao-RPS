@@ -24,4 +24,4 @@ This project implements a Rock-Paper-Scissors game for the Nao humanoid robot. T
 
 ## Usage
 
-Run the script on a computer connected to the same network as the Nao robot:
+Run the script on a computer connected to the same network as the Nao robot using any python IDE or by using Choregraph
